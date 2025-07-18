@@ -9,6 +9,8 @@ import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
 import config from "./src/config/config.json";
 
+import cloudflare from "@astrojs/cloudflare";
+
 let highlighter;
 async function getHighlighter() {
   if (!highlighter) {
@@ -24,6 +26,7 @@ export default defineConfig({
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   vite: { plugins: [tailwindcss()], ssr: { noExternal: ['astro-font'] } },
+
   integrations: [
     // astroFont({ /* your astro-font configuration here */ }),
     react(),
@@ -41,6 +44,7 @@ export default defineConfig({
     }),
     mdx(),
   ],
+
   markdown: {
     remarkPlugins: [
       remarkToc,
@@ -58,5 +62,7 @@ export default defineConfig({
     extendDefaultPlugins: true,
     highlighter: getHighlighter,
   },
+
+  adapter: cloudflare()
 });
 // Added a comment to force Astro to rebuild and re-evaluate content collections.

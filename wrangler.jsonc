@@ -1,7 +1,8 @@
 {
+  "$schema": "node_modules/wrangler/config-schema.json",
   "name": "flowslate-www",
   // Update to today's date
-  "compatibility_date": "2025-03-25",
+  "compatibility_date": "2025-07-18",
   "assets": {
     "directory": "./dist"
   }
