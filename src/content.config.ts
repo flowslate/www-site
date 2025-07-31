@@ -161,13 +161,23 @@ const pagesCollection = defineCollection({
   }),
 });
 
+// Connectors collection schema
+const connectorsCollection = defineCollection({
+  loader: glob({ pattern: "**/-*.{md,mdx}", base: "src/content/connectors" }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    draft: z.boolean().optional(),
+  }),
+});
+
 // Export collections
 export const collections = {
   homepage: homepageCollection,
   blog: blogCollection,
   pages: pagesCollection,
   contact: contactCollection,
-  
+  connectors: connectorsCollection,
   pricing: pricingCollection,
   faq: faqCollection,
 };

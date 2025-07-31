@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Databases",
+    "name": "PostgreSQL",
+    "tags": ["Source", "Destination"],
+    "description": "Connect directly to any PostgreSQL or compatible database (including Amazon RDS, Google Cloud SQL, and Neon) to use as a high-performance source or destination. Replicate entire tables or use our schema discovery to select specific columns for your flows."
+  },
+  {
+    "category": "Cloud & Finance",
+    "name": "AWS Cost Explorer",
+    "tags": ["Source"],
+    "description": "Automatically extract detailed cost and usage data from your AWS account via the Cost Explorer API. Stop manually downloading reports and build automated pipelines to analyze your cloud spend."
+  },
+  {
+    "category": "Cloud & Finance",
+    "name": "Metronome",
+    "tags": ["Destination"],
+    "description": "Load transformed usage and cost data directly into the Metronome billing platform. Automate your FinOps workflows by sending precisely formatted billing events from any source to Metronome's ingest API."
+  },
+  {
+    "category": "Spreadsheets & Productivity",
+    "name": "Google Sheets",
+    "tags": ["Source", "Destination"],
+    "description": "Use any Google Sheet as a flexible data source or a powerful reporting destination. Extract data from specific tabs for analysis, or load the results of a complex flow into a sheet for easy sharing with non-technical team members."
+  },
+  {
+    "category": "Notifications & Actions",
+    "name": "Email (via SendGrid)",
+    "tags": ["Destination"],
+    "description": "Turn any data flow into an actionable report. The Email destination allows you to take the results of a flow, convert them to a CSV file, and automatically email it as an attachment using your own SendGrid account for professional delivery."
+  }
+]
