@@ -28,5 +28,11 @@
     "name": "Email (via SendGrid)",
     "tags": ["Destination"],
     "description": "Turn any data flow into an actionable report. The Email destination allows you to take the results of a flow, convert them to a CSV file, and automatically email it as an attachment using your own SendGrid account for professional delivery."
+  },
+  {
+    "category": "Notifications & Actions",
+    "name": "Email (via SMTP2GO)",
+    "tags": ["Destination"],
+    "description": "Turn any data flow into an actionable report. The Email destination allows you to take the results of a flow, convert them to a CSV file, and automatically email it as an attachment using your own SMTP2GO account for professional, high-deliverability sending."
   }
 ]
