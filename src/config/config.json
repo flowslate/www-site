@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "FlowSlate",
-    "base_url": "https://flowslate.com",
+    "title": "Saddle Data",
+    "base_url": "https://saddledata.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "38",
-    "logo_text": "FlowSlate"
+    "logo_text": "Saddle Data"
   },
 
   "settings": {
@@ -25,13 +25,13 @@
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "FlowSlate is an intelligent data integration platform that automates the flow of data between your business applications, databases, and data warehouses.",
-    "copyright": "Copyright © 2025 FlowSlate"
+    "footer_content": "Saddle Data is an intelligent data integration platform that automates the flow of data between your business applications, databases, and data warehouses.",
+    "copyright": "Copyright © 2025 Saddle Data"
   },
 
   "metadata": {
-    "meta_author": "FlowSlate",
+    "meta_author": "Saddle Data",
     "meta_image": "/images/og-image.png",
-    "meta_description": "FlowSlate: Your Data, Connected."
+    "meta_description": "Saddle Data: Your Data, Connected."
   }
 }

@@ -1,8 +1,8 @@
 {
-  "name": "flowslate",
+  "name": "saddle-data",
   "version": "1.0.0",
-  "description": "FlowSlate website",
-  "author": "FlowSlate",
+  "description": "Saddle Data website",
+  "author": "Saddle Data",
   "license": "MIT",
   "scripts": {
     "dev": "astro dev",

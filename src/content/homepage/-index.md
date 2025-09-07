@@ -26,9 +26,9 @@ feature:
 
 # services
 services:
-  - title: "Our Solution: FlowSlate"
+  - title: "Our Solution: Saddle Data"
     content: |
-      FlowSlate is an intelligent data integration platform that automates the flow of data between your business applications, databases, and data warehouses. Businesses today use dozens of different SaaS tools and databases. Their valuable data is trapped in separate silos, making it impossible to get a complete view of their operations. Building and maintaining the "data plumbing" to connect these systems is complex, time-consuming, and requires dedicated engineering resources.
+      Saddle Data is an intelligent data integration platform that automates the flow of data between your business applications, databases, and data warehouses. Businesses today use dozens of different SaaS tools and databases. Their valuable data is trapped in separate silos, making it impossible to get a complete view of their operations. Building and maintaining the "data plumbing" to connect these systems is complex, time-consuming, and requires dedicated engineering resources.
     images:
       - "/images/service-slide-1.png" # Placeholder image
     button:
@@ -49,7 +49,7 @@ workflow:
   image: "/images/banner.png" # Placeholder image
   description: |
     Extract: Automatically pull detailed cost and usage data directly from the AWS Cost Explorer API.
-    Transform: Use FlowSlate's transformation engine to filter for specific services (like EC2), select only the relevant cost columns, and rename them to match your billing system's format.
+    Transform: Use Saddle Data's transformation engine to filter for specific services (like EC2), select only the relevant cost columns, and rename them to match your billing system's format.
     Load: Push the clean, aggregated cost data directly into your billing platform's API (like Metronome) every night.
     Result: Eliminate hours of manual spreadsheet work and ensure accurate, timely billing.
 

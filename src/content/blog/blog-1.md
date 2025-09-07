@@ -26,8 +26,8 @@ Make Faster, Better Decisions: When your data is always up-to-date and accessibl
 
 Enable Your Team: You empower your team to be self-sufficient. Analysts can analyze, marketers can measure, and leaders can lead, without having to file a ticket with Dave.
 
-## Introducing FlowSlate
+## Introducing Saddle Data
 
-We built FlowSlate to solve this exact problem. We believe that building a data pipeline shouldn't require a dedicated engineering team. Our visual-first platform makes it easy to connect your data sources, build intelligent flows, and monitor the health of your data infrastructure.
+We built Saddle Data to solve this exact problem. We believe that building a data pipeline shouldn't require a dedicated engineering team. Our visual-first platform makes it easy to connect your data sources, build intelligent flows, and monitor the health of your data infrastructure.
 
 If you're ready to move beyond the spreadsheet, you're ready for a real data pipeline.

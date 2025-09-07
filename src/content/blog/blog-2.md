@@ -6,15 +6,15 @@ date: 2025-07-18T19:00:00Z
 draft: false
 ---
 
-One of the most common data tasks is getting operational data out of a production database and into a Google Sheet for analysis, reporting, or sharing with non-technical team members. Let's walk through how to build this exact pipeline in FlowSlate in just a few minutes.
+One of the most common data tasks is getting operational data out of a production database and into a Google Sheet for analysis, reporting, or sharing with non-technical team members. Let's walk through how to build this exact pipeline in Saddle Data in just a few minutes.
 
 ## Step 1: Create Your Integrations
 
-- An Integration in FlowSlate is a secure authorization to a third-party service. For this flow, we'll need two.
+- An Integration in Saddle Data is a secure authorization to a third-party service. For this flow, we'll need two.
 
 - PostgreSQL Integration: Navigate to the "Integrations" page and click "Add Integration." Select "PostgreSQL," give it a name like "Production DB," and securely provide your database credentials (host, user, password, etc.).
 
-- Google OAuth Integration: Click "Add Integration" again and select "Google Sheets." You'll be guided through a secure OAuth flow to grant FlowSlate permission to access your Google account. This creates an integration named after your Google email address.
+- Google OAuth Integration: Click "Add Integration" again and select "Google Sheets." You'll be guided through a secure OAuth flow to grant Saddle Data permission to access your Google account. This creates an integration named after your Google email address.
 
 ## Step 2: Create Your Connections
 A Connection is a specific configuration of an Integration.
@@ -33,7 +33,7 @@ A Connection is a specific configuration of an Integration.
   - Config: Provide the spreadsheet_id of the Google Sheet you want to write to.
 
 ## Step 3: Discover Your Source Schema
-Before building the flow, let's see what data is available. Click on your "Production Users Table" connection and go to the "Discover" tab. FlowSlate will connect to your database and show you a list of all the tables and columns you have access to.
+Before building the flow, let's see what data is available. Click on your "Production Users Table" connection and go to the "Discover" tab. Saddle Data will connect to your database and show you a list of all the tables and columns you have access to.
 
 ## Step 4: Create the Flow
 1. Now for the final step. Navigate to the "Flows" page and click "Add Flow."
