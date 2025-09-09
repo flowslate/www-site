@@ -11,14 +11,14 @@ Last updated July 17, 2025
 
 We are Saddle Data ("Company," "we," "us," or "our"), a company registered in North Carolina, United States at 123 Main St, Raleigh, NC 27601.
 
-We operate the website https://www.saddledata.io (the "Site"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
+We operate the website https://www.saddledata.com (the "Site"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
 Saddle Data is an intelligent data integration platform that automates the flow of data between your business applications, databases, and data warehouses.
 
-You can contact us by email at support@saddledata.io or by mail to 123 Main St, Raleigh, NC 27601, United States.
+You can contact us by email at support@saddledata.com or by mail to 123 Main St, Raleigh, NC 27601, United States.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and Saddle Data, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
-We will provide you with prior notice of any scheduled changes to the Services you are using. The modified Legal Terms will become effective upon posting or notifying you by info@saddledata.io, as stated in the email message. By continuing to use the Services after the effective date of any changes, you agree to be bound by the modified terms.
+We will provide you with prior notice of any scheduled changes to the Services you are using. The modified Legal Terms will become effective upon posting or notifying you by info@saddledata.com, as stated in the email message. By continuing to use the Services after the effective date of any changes, you agree to be bound by the modified terms.
 
 The Services are intended for users who are at least 18 years old. Persons under the age of 18 are not permitted to use or register for the Services.
 We recommend that you print a copy of these Legal Terms for your records.
@@ -74,7 +74,7 @@ solely for your internal business purpose.
 
 Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
 
-If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: support@saddledata.io. If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
+If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: support@saddledata.com. If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
 
 We reserve all rights not expressly granted to you in and to the Services, Content, and Marks.
 
@@ -133,7 +133,7 @@ Your subscription will continue and automatically renew unless canceled. You con
 
 ### Cancellation
 
-You can cancel your subscription at any time by contacting us using the contact information provided below. Your cancellation will take effect at the end of the current paid term. If you have any questions or are dissatisfied for any reason, please email us at support@saddledata.io.
+You can cancel your subscription at any time by contacting us using the contact information provided below. Your cancellation will take effect at the end of the current paid term. If you have any questions or are dissatisfied for any reason, please email us at support@saddledata.com.
 
 ## 7. FREE TRIAL
 
@@ -211,7 +211,7 @@ We reserve the right, but not the obligation, to: (1) monitor the Services for v
 
 ## 14. PRIVACY POLICY
 
-We care about data privacy and security. Please review our Privacy Policy: https://www.saddledata.io/privacy-policy. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised that the Services are hosted in the United States. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Services, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.
+We care about data privacy and security. Please review our Privacy Policy: https://www.saddledata.com/privacy-policy. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised that the Services are hosted in the United States. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Services, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.
 
 ## 15. COPYRIGHT INFRINGEMENTS
 
@@ -271,10 +271,9 @@ These Legal Terms and any policies or operating rules posted by us on the Servic
 
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
-Saddle Data
-123 Main St
-Raleigh, NC 27601
+Saddle Data, Inc.
+8 The Green #24058
+Dover, DE, 19901
 United States
-Phone: (919) 555-1234
-Fax: (919) 555-1235
-Email: support@saddledata.io
+Phone: (302) 375-8909
+Email: support@saddledata.com
