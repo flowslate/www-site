@@ -61,5 +61,5 @@ call_to_action:
   button:
     enable: true
     label: "Sign Up for Free"
-    link: "/contact"
+    link: "https://app.saddledata.io/register"
 ---
