@@ -12,6 +12,18 @@
     "description": "The world's most popular open-source database, now a first-class citizen in Saddle Data. Use MySQL as a reliable source or a powerful destination for any of your data pipelines. Replicate entire tables or use our schema discovery to select specific columns for your flows."
   },
   {
+    "category": "Databases",
+    "name": "BigQuery",
+    "tags": ["Destination"],
+    "description": "Load your data into Google's powerful, petabyte-scale cloud data warehouse. Centralize all your sources into BigQuery to build a single source of truth for your BI, analytics, and machine learning workflows."
+  },
+  {
+    "category": "Databases",
+    "name": "Cassandra",
+    "tags": ["Source", "Destination"],
+    "description": "Tap into the massively scalable, always-on NoSQL database. Use SaddleData to easily extract critical data from your Cassandra clusters for complex analytics, or load enriched data back into Cassandra to power your high-availability applications."
+  },
+  {
     "category": "Cloud & Finance",
     "name": "AWS Cost Explorer",
     "tags": ["Source"],
