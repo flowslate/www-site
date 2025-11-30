@@ -1,7 +1,7 @@
 ---
 title: "Stop Breaking Pipelines: Introducing Schema Drift Detection & Auto-Migration"
 description: "Data teams often live in fear of 'The Monday Morning Break'—when an upstream engineer adds a column, and the downstream pipeline crashes. FlowSlate now solves this with automated Schema Drift Handling."
-image: "/images/pexels-anna-nekrashevich-6801648.jpg"
+image: "/images/dogs-4417556_1280.jpg"
 date: 2025-11-30T09:00:00Z
 draft: false
 ---
