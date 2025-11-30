@@ -1,6 +1,6 @@
 ---
 title: "Stop Breaking Pipelines: Introducing Schema Drift Detection & Auto-Migration"
-description: "Data teams often live in fear of 'The Monday Morning Break'—when an upstream engineer adds a column, and the downstream pipeline crashes. FlowSlate now solves this with automated Schema Drift Handling."
+description: "Data teams often live in fear of 'The Monday Morning Break'—when an upstream engineer adds a column, and the downstream pipeline crashes. Saddle Data now solves this with automated Schema Drift Handling."
 image: "/images/dogs-4417556_1280.jpg"
 date: 2025-11-30T09:00:00Z
 draft: false
@@ -12,7 +12,7 @@ But on Monday morning, the Data Team wakes up to a sea of red alerts. The ETL pi
 
 Why? Because the pipeline didn't expect that new column.
 
-**Today, FlowSlate is ending the fear of schema changes. We are introducing comprehensive Schema Drift Detection and Auto-Migration for PostgreSQL, MySQL, and Cassandra.**
+**Today, Saddle Data is ending the fear of schema changes. We are introducing comprehensive Schema Drift Detection and Auto-Migration for PostgreSQL, MySQL, and Cassandra.**
 
 ## Control Your Schema Evolution
 
@@ -22,7 +22,7 @@ We know that "one size fits all" doesn't apply to data governance. That's why we
 
 **Best for:** Development environments, rapid prototyping, and agile teams where speed > strict governance.
 
-In this mode, FlowSlate acts as a self-healing system.
+In this mode, Saddle Data acts as a self-healing system.
 *   **Detection:** When our worker detects a new column in your source database...
 *   **Action:** It automatically issues an `ALTER TABLE` command to your destination warehouse to add the column.
 *   **Result:** The sync continues uninterrupted. Your data warehouse schema evolves in real-time with your production database.
@@ -31,11 +31,11 @@ In this mode, FlowSlate acts as a self-healing system.
 
 **Best for:** Production environments, regulated industries, and complex warehouses where schema stability is paramount.
 
-In this mode, FlowSlate acts as a gatekeeper.
+In this mode, Saddle Data acts as a gatekeeper.
 *   **Detection:** When a new (or missing) column is detected...
 *   **Action:** The pipeline is immediately **Paused**. The run status is marked as `Drift Detected`.
 *   **Notification:** An alert is sent to your team: "Schema Drift Detected: New column `user_score` found."
-*   **Resolution:** You can log in, review the change in our new **Drift Details** view, and click **"Approve & Sync"**. FlowSlate will then safely migrate the schema and resume the pipeline.
+*   **Resolution:** You can log in, review the change in our new **Drift Details** view, and click **"Approve & Sync"**. Saddle Data will then safely migrate the schema and resume the pipeline.
 
 ## Robust NoSQL Support
 
