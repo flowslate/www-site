@@ -22,7 +22,7 @@ const Connectors = () => {
       });
   }, []);
 
-  const connectorTypes = ['All', 'Databases', 'Cloud & Finance', 'Spreadsheets & Productivity', 'Notifications & Actions'];
+  const connectorTypes = ['All', 'Databases', 'Cloud & Finance', 'CRM & Marketing', 'Spreadsheets & Productivity', 'Notifications & Actions'];
 
   useEffect(() => {
     let result: Connector[] = connectors;

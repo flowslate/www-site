@@ -31,9 +31,27 @@
   },
   {
     "category": "Cloud & Finance",
+    "name": "Stripe",
+    "tags": ["Source"],
+    "description": "Ingest payments, subscriptions, and invoice data from Stripe. Automate financial reporting and reconciliation by piping transaction data directly to your database."
+  },
+  {
+    "category": "Cloud & Finance",
     "name": "Metronome",
     "tags": ["Destination"],
     "description": "Load transformed usage and cost data directly into the Metronome billing platform. Automate your FinOps workflows by sending precisely formatted billing events from any source to Metronome's ingest API."
+  },
+  {
+    "category": "CRM & Marketing",
+    "name": "Salesforce",
+    "tags": ["Source"],
+    "description": "Sync your CRM data directly from Salesforce. Extract leads, opportunities, accounts, and custom objects to your warehouse for deeper analysis."
+  },
+  {
+    "category": "CRM & Marketing",
+    "name": "HubSpot",
+    "tags": ["Source"],
+    "description": "Connect to HubSpot to extract contacts, companies, deals, and marketing data. Build unified customer views by combining HubSpot data with other sources."
   },
   {
     "category": "Spreadsheets & Productivity",
